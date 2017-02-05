@@ -1,0 +1,27 @@
+{
+  "name": "weather-taiwan-TimeSearch",
+  "version": "0.0.1",
+  "description": "Search the weather record by time and StationID",
+  "main": "./lib/TimeSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtsai/weather-taiwan-TimeSearch.git"
+  },
+  "keywords": [
+    "weather",
+    "taiwan"
+  ],
+  "author": "Wesley Tsai<wesleyboy42@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wtsai/weather-taiwan-TimeSearch/issues"
+  },
+  "homepage": "https://github.com/wtsai/weather-taiwan-TimeSearch",
+  "dependencies": {
+    "moment": "^2.17.1",
+    "mongodb": "^2.2.20"
+  }
+}
